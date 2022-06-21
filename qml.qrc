@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Tile.qml</file>
+        <file>Style.qml</file>
+        <file>qmldir</file>
+        <file>Directed.qml</file>
+    </qresource>
+</RCC>

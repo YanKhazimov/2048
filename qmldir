@@ -1,0 +1,2 @@
+singleton Styles Style.qml
+singleton Directed Directed.qml
